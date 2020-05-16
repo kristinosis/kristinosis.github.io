@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #112233;
+    font-family: "Calibri", sans-serif;
+}
+html {
+    background: #ccddee
+}
+
+header {
+    background: #223344;
+    padding: 12pt;
+    color: 112233;
+    display: flex;
+    justify-content: space-between;
+}
+
+div {
+    margin: 12pt;
+}
+
+a {
+    text-decoration: none;
+    color: #112233;
+}
+
+h1 {
+    background: #aabbcc;
+    padding: 12pt;
+}
+
+header h1 {
+    border-radius: 4pt;
+    background: #778899
+}
+
+header h2 {
+    border-radius: 4pt;
+    text-align: center;
+    color: #99aabb;
+}
+
+a.styled {
+    text-decoration: underline;
+    color: #2233ff;
+}
+
+.installGuide {
+    background: #99aabb;
+    border-radius: 15px;
+}
+
+.installGuide ul{
+    padding: 12pt;
+    padding-left: 24pt;    
+}
+
+.installGuide h3 {
+    background: #667788;
+    padding: 8pt;
+    margin: 0;
+}
+
+.modCategory {
+    background: #99aabb;
+    border-radius: 15px;
+}
+
+.modCategory h2 {
+    background: #667788;
+    margin: 0;
+    margin-bottom: 8pt;
+    padding: 8pt;
+}
+
+.modCategory h3 {
+    padding: 2pt;
+    padding-left: 12pt;
+}
+
+.modCategory p {
+    padding-left: 24pt;
+    padding-bottom: 12pt;
+}
+
+.installation h2{ 
+padding: 12pt;
+}
+
+.installation p{
+    padding-left: 16pt; 
+}
+
+footer {
+    padding: 12pt;
+    background: #223344;
+}
+
+footer p {
+    color: #99aabb;
+}
